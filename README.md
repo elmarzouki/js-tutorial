@@ -15,4 +15,5 @@ node fileName.js
 ```
 ## index of content:
 .
-└── variables.js
+├── 01-variables.js
+└── 02-operators.js

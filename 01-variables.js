@@ -1,4 +1,8 @@
-/* JavaScript Variables */
+/* 
+    =====================
+    JavaScript Variables 
+    =====================
+*/
 
 // Declaring (Creating) JavaScript Variables
 // Value = undefined
