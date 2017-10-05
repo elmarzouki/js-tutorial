@@ -10,7 +10,7 @@ sudo apt-get install -y build-essential
 ```
 Then choose the lesson and run it.
 ```
-nano fileName.js / gedit fileName.js
+nano fileName.js | gedit fileName.js
 node fileName.js
 ```
 ## index of content:
