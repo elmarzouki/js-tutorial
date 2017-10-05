@@ -14,6 +14,9 @@ nano fileName.js | gedit fileName.js
 node fileName.js
 ```
 ## index of content:
+```
 .
-├── 01-variables.js
-└── 02-operators.js
+├── 01-JS-variables.js
+├── 02-JS-operators.js
+└── 03-JS-arithmetic.js
+```
