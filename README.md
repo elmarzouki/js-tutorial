@@ -22,5 +22,6 @@ node fileName.js
 ├── 04-JS-data-types.js
 ├── 05-JS-functions.js
 ├── 06-JS-objects.js
+├── 07-JS-scope.js
 └── README.md
 ```
