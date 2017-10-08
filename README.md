@@ -21,5 +21,6 @@ node fileName.js
 ├── 03-JS-precedence-operators.js
 ├── 04-JS-data-types.js
 ├── 05-JS-functions.js
+├── 06-JS-objects.js
 └── README.md
 ```
