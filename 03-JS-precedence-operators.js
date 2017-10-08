@@ -1,6 +1,6 @@
 /* 
     =====================
-    JavaScript Arithmetic 
+    JavaScript Precedence Operators 
     =====================
 */
 /* 

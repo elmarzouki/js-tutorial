@@ -18,5 +18,7 @@ node fileName.js
 .
 ├── 01-JS-variables.js
 ├── 02-JS-operators.js
-└── 03-JS-arithmetic.js
+├── 03-JS-precedence-operators.js
+├── 04-JS-data-types.js
+└── README.md
 ```
