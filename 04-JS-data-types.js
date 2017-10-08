@@ -1,6 +1,6 @@
 /* 
     =====================
-    JavaScript Arithmetic 
+    JavaScript Data Types 
     =====================
 */
 
