@@ -23,5 +23,6 @@ node fileName.js
 ├── 05-JS-functions.js
 ├── 06-JS-objects.js
 ├── 07-JS-scope.js
+├── 08-JS-events.js
 └── README.md
 ```
