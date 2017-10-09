@@ -75,3 +75,10 @@ console.log(citrus);
 // Automatic toString()
 var fruits = ["Banana", "Orange", "Apple", "Mango"];
 console.log(fruits.toString());
+
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.sort();            // Sorts the elements of fruits
+console.log(fruits);
+
+fruits.reverse();         // Reverses the order of the elements
+console.log(fruits);
