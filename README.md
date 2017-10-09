@@ -27,5 +27,7 @@ node fileName.js
 ├── 09-JS-string-methods.js
 ├── 10-JS-number-methods.js
 ├── 11-JS-array-methods.js
+├── 12-JS-conditions-and-loops.js
+├── 13-JS-json.js
 └── README.md
 ```
