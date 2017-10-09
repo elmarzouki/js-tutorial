@@ -85,3 +85,18 @@ for (i = 0; i < 10; i++) {
     text += "The number is " + i + "\n";
 }
 console.log(text);
+
+// Throw and Try to Catch
+throw "Too big";    // throw a text
+throw 500;          // throw a number
+
+var num = 1;
+var x;
+
+try {
+    num.toUpperCase();   // You cannot convert a number to upper case
+    x = y + 1;   // y cannot be referenced (used)
+}
+catch(err) {
+    console.log(err.name);
+}
