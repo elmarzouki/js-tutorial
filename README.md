@@ -24,5 +24,8 @@ node fileName.js
 ├── 06-JS-objects.js
 ├── 07-JS-scope.js
 ├── 08-JS-events.js
+├── 09-JS-string-methods.js
+├── 10-JS-number-methods.js
+├── 11-JS-array-methods.js
 └── README.md
 ```
